@@ -7,3 +7,5 @@
 <p>Step 4: Import commissioned art for alpha</p>
 <p>Step 5: Adjust gameplay and errors</p>
 <p>Step 6: Release alpha gameplay for kickstarter funding</p>
+<h2>Hypothetical</h2>
+<p>What is it was pie and not pizza, and you took all the money and ran.</p>
